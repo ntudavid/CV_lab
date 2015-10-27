@@ -1,5 +1,5 @@
 """
-cv_ex6.py - object tracking using color filtering
+cv_ex6.py - object tracking using color filtering and shapes recognition
 
 """
 
